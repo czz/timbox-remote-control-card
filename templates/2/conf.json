@@ -1,0 +1,211 @@
+{
+  "mute": {
+    "cmd": "sendevent /dev/input/event4 4 4 786658; sendevent /dev/input/event4 1 113 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786658; sendevent /dev/input/event4 1 113 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Mute",
+    "left": "18px",
+    "top": "32px"
+  },
+  "power": {
+    "cmd": "sendevent /dev/input/event4 4 4 786480; sendevent /dev/input/event4 1 116 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786480; sendevent /dev/input/event4 1 116 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Power",
+    "left": "112px",
+    "top": "-3px"
+  },
+  "up": {
+    "cmd": "sendevent /dev/input/event4 4 4 786498; sendevent /dev/input/event4 1 103 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786498; sendevent /dev/input/event4 1 103 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Up",
+    "left": "64.5px",
+    "top": "0.5px"
+  },
+  "left": {
+    "cmd": "sendevent /dev/input/event4 4 4 786500; sendevent /dev/input/event4 1 105 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786500; sendevent /dev/input/event4 1 105 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Left",
+    "left": "8px",
+    "top": "18px"
+  },
+  "ok": {
+    "cmd": "sendevent /dev/input/event4 4 4 786497; sendevent /dev/input/event4 1 353 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786497; sendevent /dev/input/event4 1 353 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "big-circle",
+    "title": "OK",
+    "left": "65px",
+    "top": "-17px"
+  },
+  "right": {
+    "cmd": "sendevent /dev/input/event4 4 4 786501; sendevent /dev/input/event4 1 106 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786501; sendevent /dev/input/event4 1 106 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Right",
+    "left": "122px",
+    "top": "-54px"
+  },
+  "down": {
+    "cmd": "sendevent /dev/input/event4 4 4 786499; sendevent /dev/input/event4 1 108 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786499; sendevent /dev/input/event4 1 108 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Down",
+    "left": "65px",
+    "top": "-37px"
+  },
+  "back": {
+    "cmd": "sendevent /dev/input/event4 4 4 786980; sendevent /dev/input/event4 1 158 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786980; sendevent /dev/input/event4 1 158 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Back",
+    "left": "17px",
+    "top": "-29px"
+  },
+  "googleassistant": {
+    "cmd": "sendevent /dev/input/event4 4 4 786581; sendevent /dev/input/event4 1 138 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786581; sendevent /dev/input/event4 1 138 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Google Assistant",
+    "left": "112px",
+    "top": "-64px"
+  },
+  "home": {
+    "cmd": "sendevent /dev/input/event4 4 4 786979; sendevent /dev/input/event4 1 172 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786979; sendevent /dev/input/event4 1 172 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "big-ellipse",
+    "title": "Home",
+    "left": "56px",
+    "top": "-63px"
+  },
+  "volumeup": {
+    "cmd": "sendevent /dev/input/event4 4 4 786665; sendevent /dev/input/event4 1 115 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786665; sendevent /dev/input/event4 1 115 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Volume Up",
+    "left": "16px",
+    "top": "-62px"
+  },
+  "pageup": {
+    "cmd": "sendevent /dev/input/event4 4 4 786588; sendevent /dev/input/event4 1 402 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786588; sendevent /dev/input/event4 1 402 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Page Up",
+    "left": "115px",
+    "top": "-97px"
+  },
+  "microphone": {
+    "cmd": "sendevent /dev/input/event4 4 4 786977; sendevent /dev/input/event4 1 217 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786977; sendevent /dev/input/event4 1 217 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Microphone",
+    "left": "65px",
+    "top": "-107px"
+  },
+  "volumedown": {
+    "cmd": "sendevent /dev/input/event4 4 4 786666; sendevent /dev/input/event4 1 114 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786666; sendevent /dev/input/event4 1 114 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Volume Down",
+    "left": "16px",
+    "top": "-113px"
+  },
+  "pagedown": {
+    "cmd": "sendevent /dev/input/event4 4 4 786589; sendevent /dev/input/event4 1 403 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786589; sendevent /dev/input/event4 1 403 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Page Down",
+    "left": "115px",
+    "top": "-149px"
+  },
+  "rewind": {
+    "cmd": "sendevent /dev/input/event4 4 4 786612; sendevent /dev/input/event4 1 168 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786589; sendevent /dev/input/event4 1 168 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Rewind",
+    "left": "18px",
+    "top": "-135px"
+  },
+  "play": {
+    "cmd": "sendevent /dev/input/event4 4 4 786637; sendevent /dev/input/event4 1 164 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786637; sendevent /dev/input/event4 1 164 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Play",
+    "left": "66px",
+    "top": "-171px"
+  },
+  "forward": {
+    "cmd": "sendevent /dev/input/event4 4 4 786611; sendevent /dev/input/event4 1 208 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786611; sendevent /dev/input/event4 1 208 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-circle",
+    "title": "Forward",
+    "left": "113px",
+    "top": "-206px"
+  },
+  "digit1": {
+    "cmd": "sendevent /dev/input/event4 4 4 458782; sendevent /dev/input/event4 1 2 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 458782; sendevent /dev/input/event4 1 2 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-ellipse",
+    "title": "1",
+    "left": "19px",
+    "top": "-190px"
+  },
+  "digit2": {
+    "cmd": "sendevent /dev/input/event4 4 4 458783; sendevent /dev/input/event4 1 3 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 458783; sendevent /dev/input/event4 1 3 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-ellipse",
+    "title": "2",
+    "left": "65px",
+    "top": "-215px"
+  },
+  "digit3": {
+    "cmd": "sendevent /dev/input/event4 4 4 458784; sendevent /dev/input/event4 1 4 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 458784; sendevent /dev/input/event4 1 4 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-ellipse",
+    "title": "3",
+    "left": "111px",
+    "top": "-240px"
+  },
+  "digit4": {
+    "cmd": "sendevent /dev/input/event4 4 4 458785; sendevent /dev/input/event4 1 5 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 458785; sendevent /dev/input/event4 1 5 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-ellipse",
+    "title": "4",
+    "left": "19px",
+    "top": "-230px"
+  },
+  "digit5": {
+    "cmd": "sendevent /dev/input/event4 4 4 458786; sendevent /dev/input/event4 1 6 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 458786; sendevent /dev/input/event4 1 6 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-ellipse",
+    "title": "5",
+    "left": "65px",
+    "top": "-255px"
+  },
+  "digit6": {
+    "cmd": "sendevent /dev/input/event4 4 4 458787; sendevent /dev/input/event4 1 7 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 458787; sendevent /dev/input/event4 1 7 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-ellipse",
+    "title": "6",
+    "left": "111px",
+    "top": "-280px"
+  },
+  "digit7": {
+    "cmd": "sendevent /dev/input/event4 4 4 458788; sendevent /dev/input/event4 1 8 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 458788; sendevent /dev/input/event4 1 8 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-ellipse",
+    "title": "7",
+    "left": "19px",
+    "top": "-270px"
+  },
+  "digit8": {
+    "cmd": "sendevent /dev/input/event4 4 4 458789; sendevent /dev/input/event4 1 9 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 458789; sendevent /dev/input/event4 1 9 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-ellipse",
+    "title": "8",
+    "left": "65px",
+    "top": "-295px"
+  },
+  "digit9": {
+    "cmd": "sendevent /dev/input/event4 4 4 458790; sendevent /dev/input/event4 1 10 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 458790; sendevent /dev/input/event4 1 10 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-ellipse",
+    "title": "9",
+    "left": "111px", "top": "-320px"
+  },
+  "yellow": {
+    "cmd": "sendevent /dev/input/event4 4 4 786540; sendevent /dev/input/event4 1 400 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786540; sendevent /dev/input/event4 1 400 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-ellipse",
+    "title": "Mute",
+    "left": "19px",
+    "top": "-310px"
+  },
+  "digit0": {
+    "cmd": "sendevent /dev/input/event4 4 4 458791; sendevent /dev/input/event4 1 11 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 458791; sendevent /dev/input/event4 1 11 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-ellipse",
+    "title": "0",
+    "left": "65px",
+    "top": "-335px"
+  },
+  "blue": {
+    "cmd": "sendevent /dev/input/event4 4 4 786539; sendevent /dev/input/event4 1 401 1; sendevent /dev/input/event4 0 0 0; sendevent /dev/input/event4 4 4 786539; sendevent /dev/input/event4 1 401 0; sendevent /dev/input/event4 0 0 0",
+    "cl": "small-ellipse",
+    "title": "Blue",
+    "left": "111px",
+    "top": "-360px"
+  }
+}
