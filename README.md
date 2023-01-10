@@ -1,6 +1,6 @@
 # TimBox Remote Control card for Homa Assitant
 
-<img src="https://czz78.com/images/Tim_remotes" height="400">
+<img src="https://czz78.com/images/Tim_remotes.png" height="400">
 
 ```
 resources:
