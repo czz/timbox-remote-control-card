@@ -1,4 +1,4 @@
-# TimBox Remote Control card for Homa Assitant
+# TimBox Remote Control card for Home Assistant
 
 <img src="https://czz78.com/images/Tim_remotes.png" height="400">
 
