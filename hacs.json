@@ -1,6 +1,5 @@
 {
   "name": "TimBox Remote Control Card",
-  "description" : "a remote control card that can be used with any timbox or timvision androitv service",
   "filename": "timbox-remote-control-card.js",
   "render_readme" : true
 }
