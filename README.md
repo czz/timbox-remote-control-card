@@ -33,5 +33,3 @@ entity_id: media_player.android_tv_192_168_1_141
 remote_template: 2
 
 ```
-
-some fixes where made on 20 feb 2022
